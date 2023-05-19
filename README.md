@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrudhviRajMacherla
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning app development 
+- 🌱 I’m currently learning web development using mern stack
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me macharlaprudhvi3@gmail.com 
 
